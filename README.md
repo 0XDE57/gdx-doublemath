@@ -12,5 +12,7 @@ These extensions are just double versions of the existing built in float version
 * DoublePolygon (Polygon)
 * DoubleShape2D (Shape2D)
 
+Built off: https://github.com/libgdx/libgdx
+
 ---
 NOTE: Some of these calculations have Vector2 inputs or outputs. These values are cast to float so there may still be some precision lost without moving to a DoubleVector2 (not made yet)
