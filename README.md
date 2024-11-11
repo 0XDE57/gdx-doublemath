@@ -8,7 +8,7 @@ These extensions are just double versions of the existing built in float version
 * DoubleArray (FloatArray)
 * DoubleConvexHull (ConvexHull)
 * DoubleDelaunayTriangulator (DalaunayTriangulator)
-* DoubbleGeometryUtils (GeometryUtils)
+* DoubleGeometryUtils (GeometryUtils)
 * DoublePolygon (Polygon)
 * DoubleShape2D (Shape2D)
 
