@@ -14,8 +14,6 @@
  * limitations under the License.
  ******************************************************************************/
 
- package com.github.OxDE57.gdxdoublemath;
-
  import com.badlogic.gdx.math.MathUtils;
  import com.badlogic.gdx.utils.NumberUtils;
 

@@ -1,4 +1,3 @@
-package com.github.OxDE57.gdxdoublemath;
 
 import com.badlogic.gdx.math.Vector2;
 

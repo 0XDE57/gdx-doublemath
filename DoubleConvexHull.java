@@ -15,8 +15,6 @@
  * limitations under the License.
  ******************************************************************************/
 
-package com.github.OxDE57.gdxdoublemath;
-
 import com.badlogic.gdx.utils.IntArray;
 import com.badlogic.gdx.utils.ShortArray;
 
